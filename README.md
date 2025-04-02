@@ -12,17 +12,17 @@ This folder contains working examples to demonstrate how the AI Rough Cut Editor
 
 ## 📝 Files
 
-### [`Churchill-AIDemo-ExampleTranscript.txt`](https://github.com/surfermedina/AI-RoughCut-Editor/blob/main/examples/Churchill-AIDemo-ExampleTranscript.txt)
+### [`JFK - Moon Speech-transcript.txt`](https://github.com/surfermedina/AI-RoughCut-Editor/blob/main/examples/JFK%20-%20Moon%20Speech-transcript.txt)
 This is a sample transcript exported from Adobe Premiere Pro using the **Text-Based Editing** workspace. It includes speaker labels and timecodes, formatted exactly as Premiere outputs them.
 
-### [`Churchill-ChatGPT-prompt.txt`](https://github.com/surfermedina/AI-RoughCut-Editor/blob/main/examples/Churchill-ChatGPT-prompt.txt)
+### [`JFK - Moon Speech-prompt.txt`](https://github.com/surfermedina/AI-RoughCut-Editor/blob/main/examples/JFK%20-%20Moon%20Speech-prompt.txt)
 This file contains a structured prompt designed to guide ChatGPT (or another LLM) in transforming the transcript into a themed, timecoded script. The prompt is focused on extracting moments from Churchill’s speech that reflect the theme of **resilience**—even though the word itself is never spoken.
 
 ## 💡 How to Use These Files
 
 1. Open [ChatGPT](https://chat.openai.com) or another LLM interface.
-2. Copy the contents of [`Churchill-ChatGPT-prompt.txt`](https://github.com/surfermedina/AI-RoughCut-Editor/blob/main/examples/Churchill-ChatGPT-prompt.txt) into the chat.
-3. Paste the full contents of [`Churchill-AIDemo-ExampleTranscript.txt`](https://github.com/surfermedina/AI-RoughCut-Editor/blob/main/examples/Churchill-AIDemo-ExampleTranscript.txt) when prompted.
+2. Copy the contents of the prompt into the chat.
+3. Upload the full contents of the transcript when prompted.
 4. Let the model generate a new rough cut script based on the theme.
 5. Use the resulting timecodes to quickly assemble a timeline in Premiere Pro.
 
