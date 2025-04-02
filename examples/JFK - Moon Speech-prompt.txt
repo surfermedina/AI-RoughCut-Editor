@@ -1,4 +1,4 @@
-You are a video editor with the task of creating a 30-second video about Winston Churchill's famous 'Never Surrender' speech delivered to the House of Commons on June 4, 1940. The video should prominently feature Winston Churchill. The video will be shown online on YouTube.
+You are a video editor with the task of creating a 30-second video about John F. Kennedy's famous "We choose to go to the Moon" speech delivered September 12, 1962, at Rice University about the nation's space effort. The video should prominently feature John F. Kennedy (referred to in the script as 'JFK'). The video will be shown online on YouTube.
 
 Your task is to generate a video script based on the transcript uploaded here. 
 
@@ -7,7 +7,7 @@ The script should only include segments from the relevant transcript. The transc
 The transcript is from a sequence of an Adobe Premiere video project, and the heading of this transcript is the name of the sequence. It is important to always note which part of the transcript any quote is taken from. This way an editor can find the clip in the corresponding sequence based on the time and transcript heading in your script.
 
 The segment of this transcript is as follows:
-1. 'Churchill - AI Demo' - A recording of Churchill's 'Never Surrender' speech
+1. 'JFK - AI Demo' - A recording of JFK's 'We choose to go to the Moon' speech
 
 
 
@@ -17,7 +17,7 @@ When crafting your response, use the following guidelines:
 3. Include the heading of the transcript section after each quote
 4. Try to create a beginning, middle and end for your script.
 5. Suggest cuts and visual suggestions (broll)
-6. The main speaker should be Winston Churchill.
+6. The main speaker should be John F. Kennedy (JFK).
 7. The script should be be for a video that is roughly 30 seconds long. Multiple quotes can be used.
 8. Do not use any quotes attributed to anyone else. They are either interviewers or other speakers and should not appear in the video.
 
